@@ -17,8 +17,8 @@ Este proyecto contiene una serie de retos en Python diseñados para ayudarte a m
 
 ## Instrucciones de Uso
 
-1. Clona este repositorio a tu máquina local: `git clone https://github.com/tuusuario/proyecto-retos-python.git`
-2. Navega a la carpeta del reto que deseas resolver: `cd proyecto-retos-python/RetoX_NombreDelReto`
+1. Clona este repositorio a tu máquina local: `git clone https://github.com/nigerdyanes/ai-challenges.git`
+2. Navega a la carpeta del reto que deseas resolver: `cd ai-challenges/RetoX_NombreDelReto`
 3. Ejecuta el código y sigue las instrucciones para probar la solución.
 
 ## Contribuciones
