@@ -10,8 +10,13 @@ Este proyecto contiene una serie de retos en Python diseñados para ayudarte a m
   - Archivo: `reto1_invertir_cadena.py`
 
 - **Reto 2: Verificar Palíndromo**
+
   - Descripción: Verifica si una cadena es un palíndromo.
   - Archivo: `reto2_verificar_palindromo.py`
+
+- **Reto 3: Contar Vocales**
+  - Descripción: Cuenta las vocales de una palabra.
+  - Archivo: `reto3_contar_vocales.py`
 
 <!-- Agrega más secciones según sea necesario para tus retos -->
 
