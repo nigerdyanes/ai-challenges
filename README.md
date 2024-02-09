@@ -7,16 +7,21 @@ Este proyecto contiene una serie de retos en Python diseñados para ayudarte a m
 - **Reto 1: Invertir Cadena**
 
   - Descripción: Invierte una cadena de texto.
-  - Archivo: `reto1_invertir_cadena.py`
+  - Archivo: `invierte_cadena/reto1_invertir_cadena.py`
 
 - **Reto 2: Verificar Palíndromo**
 
   - Descripción: Verifica si una cadena es un palíndromo.
-  - Archivo: `reto2_verificar_palindromo.py`
+  - Archivo: `palindromo/reto2_verificar_palindromo.py`
 
 - **Reto 3: Contar Vocales**
+
   - Descripción: Cuenta las vocales de una palabra.
-  - Archivo: `reto3_contar_vocales.py`
+  - Archivo: `contar_vocales/reto3_contar_vocales.py`
+
+- **Reto 4: Sistema de registro de usuario**
+  - Descripción: Un sencillo sistema de registro.
+  - Archivo: `sistema_registro_usuarios/main.py`
 
 <!-- Agrega más secciones según sea necesario para tus retos -->
 
