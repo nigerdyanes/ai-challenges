@@ -20,8 +20,13 @@ Este proyecto contiene una serie de retos en Python diseñados para ayudarte a m
   - Archivo: `contar_vocales/reto3_contar_vocales.py`
 
 - **Reto 4: Sistema de registro de usuario**
+
   - Descripción: Un sencillo sistema de registro.
   - Archivo: `sistema_registro_usuarios/main.py`
+
+- **Reto 5: Programación orientada a objetco**
+  - Descripción: Un clase sencilla para implementar mis conocimientos sobre POO.
+  - Archivo: `programacion_orientada_objecto/main.py`
 
 <!-- Agrega más secciones según sea necesario para tus retos -->
 
