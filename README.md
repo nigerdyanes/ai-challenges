@@ -24,9 +24,14 @@ Este proyecto contiene una serie de retos en Python diseñados para ayudarte a m
   - Descripción: Un sencillo sistema de registro.
   - Archivo: `sistema_registro_usuarios/main.py`
 
-- **Reto 5: Programación orientada a objetco**
+- **Reto 5: Programación orientada a objecto**
+
   - Descripción: Un clase sencilla para implementar mis conocimientos sobre POO.
   - Archivo: `programacion_orientada_objecto/main.py`
+
+- **Reto 6: Gestor de Tareas con SQLite en Python**
+  - Descripción: Gestor de Tareas en SQLite.
+  - Archivo: `todo/main.py`
 
 <!-- Agrega más secciones según sea necesario para tus retos -->
 
